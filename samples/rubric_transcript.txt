@@ -1,0 +1,6 @@
+Ye Home Assignment 1 hai, two-port network ka. Total das marks ka hai.
+Pehle, Z-parameters nikaalna hai — teen marks. Uske baad voltage transfer function, V2 by V1,
+derive karna hai — teen marks. Conditions for reciprocity aur symmetry batao — do marks.
+Last mein ek numerical example solve karna hai — do marks.
+Agar units nahi likhe to aadha mark cut karna. Steps skip kiye to bhi marks cut karna.
+Comment chhota rakho, English mein likho, aur har deduction ka reason zaroor dena.

@@ -1,0 +1,7 @@
+requests>=2.31
+pymupdf>=1.24
+pillow>=10
+
+# Only needed for --live (Google Classroom):
+google-api-python-client>=2.120
+google-auth-oauthlib>=1.2

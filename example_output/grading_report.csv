@@ -1,0 +1,7 @@
+student,score,max,confidence,deductions,feedback,notes,submission_id,source
+Himanshi Kumar Agarwal,9.0,10,high,Skipped an intermediate step in the derivation.,"Hi Himanshi, you scored 9.0/10. Good work on the Z-parameters and the reciprocity conditions. One derivation step was skipped and units are missing at the end, which cost you marks. Please see the per-criterion notes.",,,samples/submissions/Himanshi_Kumar_Agarwal.png
+,,,,criteria: c1: 3/3; c2: 2/3; c3: 2/2; c4: 2/2,,,,
+Kushireddi Sai Anish,8.0,10,medium,Skipped an intermediate step in the derivation. | Missing units in the final answer.,"Hi Kushireddi, you scored 8.0/10. Good work on the Z-parameters and the reciprocity conditions. One derivation step was skipped and units are missing at the end, which cost you marks. Please see the per-criterion notes.",Photo is a bit dark; re-check the last step by eye.,,samples/submissions/Kushireddi_Sai_Anish.png
+,,,,criteria: c1: 3/3; c2: 2/3; c3: 2/2; c4: 1.5/2,,,,
+Shyam Agrawal,8.0,10,medium,Skipped an intermediate step in the derivation. | Missing units in the final answer.,"Hi Shyam, you scored 8.0/10. Good work on the Z-parameters and the reciprocity conditions. One derivation step was skipped and units are missing at the end, which cost you marks. Please see the per-criterion notes.",Photo is a bit dark; re-check the last step by eye.,,samples/submissions/Shyam_Agrawal.png
+,,,,criteria: c1: 3/3; c2: 2/3; c3: 2/2; c4: 1.5/2,,,,
