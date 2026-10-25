@@ -16,7 +16,7 @@ STT_MODEL = _env("GRADEBOT_STT_MODEL", "saaras:v3")
 # Image understanding model -> used to read and grade the handwritten sheets
 VISION_MODEL = _env("GRADEBOT_VISION_MODEL", "gemma4")
 # Text model -> structures the rubric and can re-write feedback in Hindi
-TEXT_MODEL = _env("GRADEBOT_TEXT_MODEL", "sarvam-105b")
+TEXT_MODEL = _env("GRADEBOT_TEXT_MODEL", "gemma4")
 
 # The synchronous speech-to-text REST endpoint accepts at most 30s per request.
 STT_MAX_SECONDS = 30

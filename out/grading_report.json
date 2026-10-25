@@ -1,0 +1,117 @@
+[
+  {
+    "student": "Himanshi_Kumar_Agarwal",
+    "score": 9.5,
+    "max": 10,
+    "criteria": [
+      {
+        "id": "c1",
+        "awarded": 3,
+        "max": 3,
+        "comment": "All four Z-parameters correct."
+      },
+      {
+        "id": "c2",
+        "awarded": 2,
+        "max": 3,
+        "comment": "Transfer function derived; one intermediate step skipped."
+      },
+      {
+        "id": "c3",
+        "awarded": 2,
+        "max": 2,
+        "comment": "Both conditions stated."
+      },
+      {
+        "id": "c4",
+        "awarded": 2,
+        "max": 2,
+        "comment": "Numerical answer correct."
+      }
+    ],
+    "deductions": [
+      "Skipped an intermediate step in the derivation."
+    ],
+    "feedback": "Hi Himanshi_Kumar_Agarwal, you scored 9.5/10. Good work on the Z-parameters and the reciprocity conditions. One derivation step was skipped and units are missing at the end, which cost you marks. Please see the per-criterion notes.",
+    "confidence": "high",
+    "notes": "",
+    "pages": 1,
+    "source": "samples/submissions/Himanshi_Kumar_Agarwal.png"
+  },
+  {
+    "student": "Kushireddi_Sai_Anish",
+    "score": 10,
+    "max": 10,
+    "criteria": [
+      {
+        "id": "c1",
+        "awarded": 3,
+        "max": 3,
+        "comment": "All four Z-parameters correct."
+      },
+      {
+        "id": "c2",
+        "awarded": 3,
+        "max": 3,
+        "comment": "Transfer function derived; one intermediate step skipped."
+      },
+      {
+        "id": "c3",
+        "awarded": 2,
+        "max": 2,
+        "comment": "Both conditions stated."
+      },
+      {
+        "id": "c4",
+        "awarded": 2,
+        "max": 2,
+        "comment": "Numerical answer correct."
+      }
+    ],
+    "deductions": [],
+    "feedback": "Hi Kushireddi_Sai_Anish, you scored 10/10. Good work on the Z-parameters and the reciprocity conditions. Everything was clean -- well done! Please see the per-criterion notes.",
+    "confidence": "high",
+    "notes": "",
+    "pages": 1,
+    "source": "samples/submissions/Kushireddi_Sai_Anish.png"
+  },
+  {
+    "student": "Shyam_Agrawal",
+    "score": 9.5,
+    "max": 10,
+    "criteria": [
+      {
+        "id": "c1",
+        "awarded": 3,
+        "max": 3,
+        "comment": "All four Z-parameters correct."
+      },
+      {
+        "id": "c2",
+        "awarded": 2,
+        "max": 3,
+        "comment": "Transfer function derived; one intermediate step skipped."
+      },
+      {
+        "id": "c3",
+        "awarded": 2,
+        "max": 2,
+        "comment": "Both conditions stated."
+      },
+      {
+        "id": "c4",
+        "awarded": 2,
+        "max": 2,
+        "comment": "Numerical answer correct."
+      }
+    ],
+    "deductions": [
+      "Skipped an intermediate step in the derivation."
+    ],
+    "feedback": "Hi Shyam_Agrawal, you scored 9.5/10. Good work on the Z-parameters and the reciprocity conditions. One derivation step was skipped and units are missing at the end, which cost you marks. Please see the per-criterion notes.",
+    "confidence": "high",
+    "notes": "",
+    "pages": 1,
+    "source": "samples/submissions/Shyam_Agrawal.png"
+  }
+]
